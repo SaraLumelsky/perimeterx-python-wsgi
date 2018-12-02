@@ -11,6 +11,7 @@ Table of Contents
   *   [Dependencies](#dependencies)
   *   [Installation](#installation)
   *   [Basic Usage Example](#basic-usage)
+-   [Upgrading](#upgrade)
 -   [Configuration](#configuration)
   *   [Blocking Score](#blocking-score)
   *   [Customizing Block page](#custom-block-page)
@@ -86,6 +87,9 @@ px_config = {
 
 app = PerimeterX(app, px_config)
 ```
+## <a name="upgrade"></a> Upgrading
+
+TBD
 
 ### <a name="configuration"></a> Configuration Options
 
